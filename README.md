@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @SebastianScv
+- 👀 I’m interested in VueJs, React, NodeJS projects
+- 🌱 I’m currently learning Lua 
